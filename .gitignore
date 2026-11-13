@@ -1,0 +1,8 @@
+venv/
+.keras/
+.matplotlib/
+__pycache__/
+*.pyc
+.DS_Store
+web_snapshot.html
+app_legacy.py

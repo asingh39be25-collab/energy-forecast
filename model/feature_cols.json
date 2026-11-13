@@ -1,0 +1,29 @@
+{
+  "feature_cols": [
+    "temperature_c",
+    "humidity_pct",
+    "wind_speed_kmh",
+    "precipitation_mm",
+    "cloud_cover_pct",
+    "hour",
+    "day_of_week",
+    "month",
+    "is_weekend"
+  ],
+  "all_cols": [
+    "energy_kwh",
+    "temperature_c",
+    "humidity_pct",
+    "wind_speed_kmh",
+    "precipitation_mm",
+    "cloud_cover_pct",
+    "hour",
+    "day_of_week",
+    "month",
+    "is_weekend"
+  ],
+  "target": "energy_kwh",
+  "lookback": 24,
+  "mae": 0.07441,
+  "rmse": 0.09619
+}
